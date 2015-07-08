@@ -9,7 +9,7 @@
 # the .3ds file, but with the .obj extension.
 # The export creates a .mtl file for each .obj file also.
  
-import bpy #this is for blender  #could it be possible that vcglib is for meshlab?
+import bpy #this is for blender 
 import sys
 import os.path
  

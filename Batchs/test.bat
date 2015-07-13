@@ -1,0 +1,1 @@
+FOR %%f IN (*.obj) DO "c:\program files\blender foundation\blender\blender.exe" -b --python "c:\Users\Russell\Desktop\convert_fbx.py" -- "%%f"
